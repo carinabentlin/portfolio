@@ -29,16 +29,16 @@ async function getApiGithub(){
 
         <p>
             Sou Desenvolvedora Full Stack – habilidade aperfeiçoada no Bootcamp da Generation Brasil com foco em
-            Java, Spring Boot, MySQL, HTML, CSS, JavaScript, React, Git/GitHub e metodologias ágeis.
+            Java, Spring Boot, MySQL, HTML, CSS, JavaScript, TypeScript, Node.js, React, Git/GitHub e metodologias ágeis.
         </p>
         <p>
-            Com formação inicial em comunicação social/jornalismo, tenho mais de 16 anos de experiência em gestão de projetos,
+            Com formação inicial em comunicação social/jornalismo e pós-graduação em gestão de políticas culturais, tenho mais de 16 anos de experiência em gestão de projetos,
             comunicação corporativa, produção cultural e audiovisual, mantendo atuação contínua em iniciativas culturais
-            e de impacto social. Como criadora já publiquei alguns livros e dirigi documentários.
+            e de impacto social. Como criadora já publiquei alguns livros, dirigi documentários entre outros diversos projetos que geraram resultados efetivos.
         </p>
         <p>
             Meu propósito é unir a experiência em gestão, cultura e inovação à formação em tech, desenvolvendo soluções que conectem
-            pessoas a soluções efetivas – e de quebra – fortalecer a presença de mais mulheres na tecnologia.
+            pessoas – e de quebra – fortalecer a presença de mais mulheres na tecnologia.
         </p>
 
         <div class="about_status fade-in-up">
